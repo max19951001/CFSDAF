@@ -1,2 +1,2 @@
 # MFSDAF
- a modified fexible spatiotemporal fusion method (MFSDAF) for LST fusion
+ a modified fexible spatiotemporal fusion method (CFSDAF) for LST fus
